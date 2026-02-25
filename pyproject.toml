@@ -1,0 +1,13 @@
+[project]
+name = "nano-pachong"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "playwright>=1.57.0",
+    "pypandoc>=1.16.2",
+    "html2text>=2020.1.16",
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.32.5",
+]
