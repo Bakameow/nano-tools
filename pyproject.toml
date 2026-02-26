@@ -10,4 +10,5 @@ dependencies = [
     "html2text>=2020.1.16",
     "beautifulsoup4>=4.14.3",
     "requests>=2.32.5",
+    "openreview-py>=1.0.0",
 ]
